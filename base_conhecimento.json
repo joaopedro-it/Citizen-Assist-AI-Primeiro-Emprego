@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho digital",
+      "ctps digital",
+      "carteira trabalho",
+      "ctps"
+    ],
+    "resposta": "A Carteira de Trabalho Digital pode ser acessada pelo aplicativo ou serviço oficial com conta gov.br. Confira seus vínculos e dados no serviço.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Consultar situação do CPF",
+    "palavras_chave": [
+      "consultar cpf",
+      "situacao cpf",
+      "cpf regular",
+      "regularizar cpf"
+    ],
+    "resposta": "Consulte a situação cadastral do CPF no serviço oficial da Receita Federal. Se houver pendência, siga as instruções apresentadas pelo órgão.",
+    "documentos": [
+      "CPF para consulta diretamente no site oficial; não informe ao assistente"
+    ],
+    "onde": "Portal da Receita Federal",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf/cpf",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Título de eleitor e situação eleitoral",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "e titulo",
+      "situacao eleitoral"
+    ],
+    "resposta": "Consulte os serviços eleitorais para tirar o título, regularizar a situação ou usar o e-Título. Regras e prazos dependem da situação eleitoral.",
+    "documentos": [
+      "Documentação indicada pela Justiça Eleitoral"
+    ],
+    "onde": "Autoatendimento Eleitoral no TSE",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Criar conta gov.br",
+    "palavras_chave": [
+      "criar conta gov br",
+      "conta govbr",
+      "cadastro gov br",
+      "acesso gov br"
+    ],
+    "resposta": "Crie ou acesse sua conta no portal oficial gov.br. Siga a verificação de identidade solicitada pelo próprio serviço.",
+    "documentos": [
+      "Dados solicitados apenas no site oficial"
+    ],
+    "onde": "Portal gov.br",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 5,
+    "categoria": "Primeiro emprego",
+    "titulo": "Programa Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendizagem profissional",
+      "contrato aprendiz",
+      "vaga aprendiz"
+    ],
+    "resposta": "A aprendizagem profissional combina formação e atividades práticas, com regras próprias. Consulte os requisitos e oportunidades em canais oficiais e instituições formadoras.",
+    "documentos": [
+      "Documentos pedidos na seleção; confira o edital da vaga"
+    ],
+    "onde": "Empresas e instituições formadoras; orientações do Ministério do Trabalho",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 6,
+    "categoria": "Primeiro emprego",
+    "titulo": "Buscar vagas no SINE",
+    "palavras_chave": [
+      "buscar emprego sine",
+      "vagas sine",
+      "sine emprego",
+      "emprego trabalhador"
+    ],
+    "resposta": "Procure vagas pelos canais oficiais do SINE e mantenha seu cadastro atualizado nos serviços indicados. Não pague para se candidatar a vagas.",
+    "documentos": [
+      "Documentos conforme o atendimento oficial"
+    ],
+    "onde": "Portal Emprega Brasil, aplicativo Carteira de Trabalho Digital ou postos da Rede SINE",
+    "fonte": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 7,
+    "categoria": "Primeiro emprego",
+    "titulo": "Preparar currículo para primeira vaga",
+    "palavras_chave": [
+      "curriculo primeiro emprego",
+      "curriculo sem experiencia",
+      "montar curriculo",
+      "fazer curriculo"
+    ],
+    "resposta": "Monte um currículo objetivo com formação, cursos, projetos e habilidades reais. Não invente experiências. Confira a descrição da vaga antes de enviar.",
+    "documentos": [
+      "Currículo preparado pelo candidato"
+    ],
+    "onde": "Candidatura na empresa ou canal oficial da vaga",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+    "verificado_em": "PENDENTE - recomendacao editorial; fonte geral nao comprova orientacao especifica"
+  },
+  {
+    "id": 8,
+    "categoria": "Primeiro emprego",
+    "titulo": "Direitos básicos do trabalhador CLT",
+    "palavras_chave": [
+      "direitos clt",
+      "contrato de trabalho",
+      "registro carteira",
+      "direitos trabalhador"
+    ],
+    "resposta": "Verifique os direitos aplicáveis ao seu vínculo de trabalho, incluindo registro, jornada e remuneração. Condições específicas dependem do contrato e da legislação.",
+    "documentos": [
+      "Contrato e registros pessoais, apenas para consulta no canal oficial"
+    ],
+    "onde": "Ministério do Trabalho e Emprego",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/perguntas-frequentes",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 9,
+    "categoria": "Estágio e formação",
+    "titulo": "Regras gerais de estágio",
+    "palavras_chave": [
+      "lei do estagio",
+      "contrato estagio",
+      "estagio estudante",
+      "termo compromisso"
+    ],
+    "resposta": "O estágio deve seguir a Lei do Estágio e envolver estudante, instituição de ensino e concedente. Consulte a lei e as orientações da sua instituição antes de assinar.",
+    "documentos": [
+      "Termo de compromisso e documentos solicitados pela instituição"
+    ],
+    "onde": "Instituição de ensino e organização concedente",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 10,
+    "categoria": "Estágio e formação",
+    "titulo": "ENEM e inscrição",
+    "palavras_chave": [
+      "inscricao enem",
+      "prova enem",
+      "enem estudante",
+      "participar enem"
+    ],
+    "resposta": "Consulte o edital e o cronograma vigentes do ENEM nos canais oficiais do Inep. As datas e exigências podem mudar a cada edição.",
+    "documentos": [
+      "Documentos e dados exigidos no edital oficial"
+    ],
+    "onde": "Portal do Inep",
+    "fonte": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 11,
+    "categoria": "Estágio e formação",
+    "titulo": "Cursos gratuitos de qualificação",
+    "palavras_chave": [
+      "cursos gratuitos",
+      "qualificacao profissional",
+      "curso online gratuito",
+      "formacao profissional"
+    ],
+    "resposta": "Busque cursos em plataformas públicas de educação e qualificação. Confira carga horária, requisitos e emissão de certificado diretamente na plataforma.",
+    "documentos": [
+      "Cadastro exigido pela plataforma oficial"
+    ],
+    "onde": "Escola Virtual de Governo",
+    "fonte": "https://www.escolavirtual.gov.br/",
+    "verificado_em": "PENDENTE - portal acessivel; conteudo dos cursos nao conferido"
+  },
+  {
+    "id": 12,
+    "categoria": "Estágio e formação",
+    "titulo": "Consultar bolsas do ProUni",
+    "palavras_chave": [
+      "bolsa prouni",
+      "inscricao prouni",
+      "programa universidade todos",
+      "prouni faculdade"
+    ],
+    "resposta": "Confira os requisitos, o calendário e as regras do ProUni no portal oficial. A elegibilidade depende dos critérios publicados para cada seleção.",
+    "documentos": [
+      "Documentos de comprovação conforme o edital"
+    ],
+    "onde": "Portal de Acesso Único do MEC",
+    "fonte": "https://acessounico.mec.gov.br/prouni",
+    "verificado_em": "PENDENTE - portal acessivel; regras atuais nao conferidas"
+  }
+]
