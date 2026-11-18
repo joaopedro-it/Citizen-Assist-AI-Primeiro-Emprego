@@ -1,0 +1,112 @@
+[
+  {
+    "data": "2026-11-16T00:24:34",
+    "origem": "pergunta",
+    "pergunta": "Como faço para conseguir minha carteira de trabalho digital?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 47.3
+  },
+  {
+    "data": "2026-11-16T00:26:17",
+    "origem": "categoria",
+    "pergunta": "Carteira de Trabalho Digital",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": null,
+    "tentativas": 1,
+    "tempo_segundos": 20.2
+  },
+  {
+    "data": "2026-11-16T00:27:21",
+    "origem": "categoria",
+    "pergunta": "Título de eleitor e situação eleitoral",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 61.5
+  },
+  {
+    "data": "2026-11-16T00:34:56",
+    "origem": "pergunta",
+    "pergunta": "Como faço para tirar meu título de eleitor?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 1.4
+  },
+  {
+    "data": "2026-11-16T00:35:39",
+    "origem": "pergunta",
+    "pergunta": "titulo de eleitor",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 3.7
+  },
+  {
+    "data": "2026-11-16T00:36:56",
+    "origem": "pergunta",
+    "pergunta": "Como faço para tirar meu título de eleitor?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 5.8
+  },
+  {
+    "data": "2026-11-16T00:43:40",
+    "origem": "pergunta",
+    "pergunta": "Como faço para tirar meu título de eleitor?",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": null,
+    "tentativas": 1,
+    "tempo_segundos": 372.9
+  },
+  {
+    "data": "2026-11-17T21:41:39",
+    "origem": "pergunta",
+    "pergunta": "1",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 0.0
+  },
+  {
+    "data": "2026-11-17T21:41:40",
+    "origem": "pergunta",
+    "pergunta": "consultar cpf",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0
+  },
+  {
+    "data": "2026-11-17T21:41:40",
+    "origem": "categoria",
+    "pergunta": "Carteira de Trabalho Digital",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0
+  },
+  {
+    "data": "2026-11-17T21:50:23",
+    "origem": "pergunta",
+    "pergunta": "carteira de trabalho",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 22.4
+  }
+]
